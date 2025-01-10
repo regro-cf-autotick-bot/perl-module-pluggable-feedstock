@@ -1,6 +1,6 @@
 {% set name = "perl-module-pluggable" %}
-{% set version = "5.2" %}
-{% set sha256 = "b3f2ad45e4fd10b3fb90d912d78d8b795ab295480db56dc64e86b9fa75c5a6df" %}
+{% set version = "6.3" %}
+{% set sha256 = "58512bb9c654746d0937770b98b559b30872d85ac24073485e5830890dd1b2a0" %}
 
 package:
   name: {{ name }}
@@ -52,4 +52,4 @@ about:
 
 extra:
   recipe-maintainers:
-     - cbrueffer
+    - cbrueffer
